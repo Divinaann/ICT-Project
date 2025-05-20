@@ -14,7 +14,8 @@ Before running the application, make sure you have:
 Flutter SDK installed on your system. (Follow the official guide.)
 Dart Programming Language, included with Flutter.
 Visual Studio Code or any preferred code editor for Flutter development.
-📦 Setup Instructions
+
+# 📦 Setup Instructions
 Step 1: Clone the Repository
 https://github.com/Divinaann/ICT-Project
 cd Memory-Game
@@ -24,12 +25,13 @@ Step 3: Run the Application
 flutter run
 
 # 🎮 Gameplay
-Flip Cards: Tap on a card to reveal its content.
-Match Pairs: Memorize card positions and match pairs of identical cards.
-Track Progress: Keep an eye on your move counter to improve efficiency.
-Celebrate: Complete the game to receive a congratulatory message.
+-Flip Cards: Tap on a card to reveal its content.
+-Match Pairs: Memorize card positions and match pairs of identical cards.
+-Track Progress: Keep an eye on your move counter to improve efficiency.
+-Celebrate: Complete the game to receive a congratulatory message.
 
 # 📁 Project Structure
+
 MemoryGame/
 ├── lib/
 │   ├── main.dart
