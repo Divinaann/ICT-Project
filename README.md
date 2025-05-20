@@ -1,13 +1,14 @@
 # ICT-Project
-🧠 Memory Match Game 🎮
+#🧠 Memory Match Game 🎮
 A fun and engaging memory game built using Flutter. The game challenges players to match pairs of cards with as few moves as possible, providing a simple yet entertaining experience for all ages.
 
-📋 Features
+#📋 Features
 Interactive Gameplay: Flip cards, match pairs, and test your memory skills.
 Move Counter: Tracks the number of moves made during the game.
 Customizable Grid: Change the number of cards for varied difficulty levels.
 Restart Option: Reset the game anytime to start over.
-⚙️ Prerequisites
+
+#⚙️ Prerequisites
 Before running the application, make sure you have:
 
 Flutter SDK installed on your system. (Follow the official guide.)
