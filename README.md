@@ -15,7 +15,7 @@ Dart Programming Language, included with Flutter.
 Visual Studio Code or any preferred code editor for Flutter development.
 📦 Setup Instructions
 Step 1: Clone the Repository
-git clone https://github.com/ajsike2310/Memory-Game.git
+
 cd Memory-Game
 Step 2: Install Dependencies
 flutter pub get
@@ -26,6 +26,7 @@ Flip Cards: Tap on a card to reveal its content.
 Match Pairs: Memorize card positions and match pairs of identical cards.
 Track Progress: Keep an eye on your move counter to improve efficiency.
 Celebrate: Complete the game to receive a congratulatory message.
+
 📁 Project Structure
 MemoryGame/
 ├── lib/
